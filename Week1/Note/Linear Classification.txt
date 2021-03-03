@@ -1,0 +1,6 @@
+1. cannot differentiate loss function for classification
+does not have model parameter - weights?
+
+2. softmax is used for multiclass - classification
+
+3. Similarity between z and p(class probabilities) is measured by cross-entropy  

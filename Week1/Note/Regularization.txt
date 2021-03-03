@@ -1,0 +1,4 @@
+1. introduce regularizer to prevent overfitting
+2. L1 - absolute weight value and L2 - squared weights
+3. L1 drives some weights to zero (feature selection), L2 drives them close to zero
+4. For linear, lasso uses L1 and ridge uses L2
